@@ -3,8 +3,8 @@
 
 By Python2.7
 
-class:
+Course:
 http://www.imooc.com/learn/563
 
-document:
+Documents:
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
