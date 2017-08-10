@@ -1,0 +1,3 @@
+# 爬取百度百科Python下10个页面的数据
+
+说明：修改spider_main.py文件count数值可以设置爬取数
